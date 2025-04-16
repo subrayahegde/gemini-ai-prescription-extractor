@@ -11,7 +11,7 @@ import pandas as pd
 import shutil
 import google.generativeai as genai
 
-genai.configure(api_key="GEMINI_API_KEY")
+genai.configure(api_key="<GEMINI_API_KEY>")
 
 parser = None
 st.set_page_config(layout="wide")
