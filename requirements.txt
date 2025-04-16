@@ -1,0 +1,13 @@
+# Core Libraries
+streamlit
+pandas
+pydantic
+python-dotenv
+
+# Gemini API Integration
+langchain
+langchain-core
+google.generativeai
+
+# Image Processing
+Pillow
